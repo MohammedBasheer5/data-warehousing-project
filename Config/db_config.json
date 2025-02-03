@@ -1,0 +1,7 @@
+{
+    "host": "localhost",
+    "user": "postgres",
+    "password": "123qw",
+    "database": "data_warehouse",
+    "schema": "dw_schema"
+}

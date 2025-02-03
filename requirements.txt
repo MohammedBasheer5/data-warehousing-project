@@ -1,0 +1,8 @@
+✔- psycopg2    >> # PostgreSQL adapter for Python
+✔- pandas      >> # Data processing and manipulation
+✔- sqlalchemy  >> # SQL toolkit and ORM
+✔- numpy       >> # Numerical computing
+✔- pyyaml      >> # Reading configuration files
+✔- matplotlib  >> # Visualization (optional for stats.py)
+✔- notebook    >> # Jupyter Notebook for data exploration
+✔- requests    >> # API requests (if needed for data ingestion)
