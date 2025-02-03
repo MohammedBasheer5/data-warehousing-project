@@ -1,0 +1,28 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# Logs
+*.log
+
+# Configuration files (sensitive data)
+config/*.json
+
+# Data files
+data/raw/
+data/processed/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore reports and temporary files
+reports/*.md~
